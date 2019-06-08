@@ -1,0 +1,3 @@
+E:\5 семестр\Технологии разработки ПО\APIdb\APIdb\bin\Debug\APIdb.exe.config
+G:\5 семестр\Технологии разработки ПО\APIdb\APIdb\bin\Debug\APIdb.exe.config
+C:\Users\укщшпщкушопм\Desktop\-\флешка2\5 семестр\Технологии разработки ПО\APIdb\APIdb\bin\Debug\APIdb.exe.config
