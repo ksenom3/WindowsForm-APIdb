@@ -9,11 +9,8 @@
 <img src="https://github.com/SedatDon3/WindowsForm-APIdb/blob/master/PicAPIdb/5.png?raw=true" width="550"><br />
 ### Пользовательские интерфейсы
 #### Окно «Задачи сотрудника» для сотрудника,исполняющего задачи
-<br />
-<img src="https://github.com/SedatDon3/WindowsForm-APIdb/blob/master/PicAPIdb/1.png?raw=true" width="550"><br />
+<img src="https://github.com/SedatDon3/WindowsForm-APIdb/blob/master/PicAPIdb/1.png?raw=true" width="550"><br /><br />
 #### Окно «Список задач» с фильтрацией
-<br />
-<img src="https://github.com/SedatDon3/WindowsForm-APIdb/blob/master/PicAPIdb/2.png?raw=true" width="550"><br />
+<img src="https://github.com/SedatDon3/WindowsForm-APIdb/blob/master/PicAPIdb/2.png?raw=true" width="550"><br /><br />
 #### Окно «Создание проекта» для сотрудника, управляющего проектами
-<br />
-<img src="https://github.com/SedatDon3/WindowsForm-APIdb/blob/master/PicAPIdb/3.png?raw=true" width="550"><br />
+<img src="https://github.com/SedatDon3/WindowsForm-APIdb/blob/master/PicAPIdb/3.png?raw=true" width="550"><br /><br />
